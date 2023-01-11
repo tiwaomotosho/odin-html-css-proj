@@ -161,7 +161,18 @@ button {
 }
 
 .section-4{
-  background-color: white;
-  color: #1F2937;
+  background-color: #3882F6;
+  color: #F9FAF8;
+  border-radius: 8px;
   flex-grow: 1;
+  margin: 80px auto;
+  display: flex;
+  justify-content: space-between;
+  align-items: center;
+  padding: 40px 80px;
+  gap: 150px;
+}
+
+.section-4 button{
+  border: 1px solid white;
 }
